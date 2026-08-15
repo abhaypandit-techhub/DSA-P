@@ -11,4 +11,3 @@ if(found==1):
     print(f"Element are found in array that is {target} at index {i}")
 else :
     print(f"Element are not found in array that is {target}")  
-  
